@@ -1,0 +1,2 @@
+concurrent-log-handler
+PyExifTool
