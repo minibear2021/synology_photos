@@ -1,2 +1,4 @@
 concurrent-log-handler
 PyExifTool
+pillow_heif
+pillow
